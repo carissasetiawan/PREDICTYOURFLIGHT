@@ -17,4 +17,4 @@ Dataset: https://figshare.com/articles/dataset/flights_csv/9820139
 ![Prop copy 013](https://github.com/carissasetiawan/PREDICTYOURFLIGHT/assets/114559450/34c70f5d-13ec-4946-9738-7591a084e82b)
 ![Prop copy 014](https://github.com/carissasetiawan/PREDICTYOURFLIGHT/assets/114559450/f046a483-5049-4315-8b4f-e24e695e04ca)
 ![Prop copy 015](https://github.com/carissasetiawan/PREDICTYOURFLIGHT/assets/114559450/bef96539-6089-489e-bc87-5c2e46b99c75)
-![Prop copy 016](https://github.com/carissasetiawan/PREDICTYOURFLIGHT/assets/114559450/206f3c15-a5f9-4628-bfff-6ec71a6afb36)
+
